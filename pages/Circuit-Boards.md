@@ -6,3 +6,9 @@ The Basic Circuit Board can be obtained by manually killing an Iron Golem. Upon 
 
 ### Advanced Circuit Board
 The Advanced Circuit Board can be obtained via crafting in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+
+Combining the following items in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table) yields one Advanced Circuit Board:
+
+* 1 Basic Circuit Board
+* 6 Blocks of Lapis Lazuli
+* 2 Blocks of Redstone
